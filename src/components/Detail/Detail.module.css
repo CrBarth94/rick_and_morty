@@ -1,0 +1,19 @@
+.detail{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 7%;
+    
+}
+
+.img{
+width: 100%;
+}
+
+.text{
+    margin-left: 10%;
+    background-color: rgba(15, 14, 14, 0.3);
+    display: flex;
+    flex-direction: column;
+    width: 100%;   
+    color: rgb(177, 178, 185)    ; 
+}
