@@ -1,0 +1,16 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position:absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+}
+
+.btn{
+    margin-left: 45%;
+    margin-right: 45%;
+    justify-content: space-around;
+}
